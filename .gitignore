@@ -1,3 +1,0 @@
-*.lua
-!main.lua
-!/.pcm/**/*.lua
